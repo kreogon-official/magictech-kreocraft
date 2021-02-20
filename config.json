@@ -1,5 +1,5 @@
 {
   "version": "1.12.2",
   "forge": "forge_1.12.2_14.23.5.2854_installer.jar",
-  "server": "example.com:25665"
+  "server": "0.tcp.ap.ngrok.io:17457"
 }
